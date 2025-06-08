@@ -101,7 +101,7 @@ POST /api/users/login
 
 1. *Clone the repository*
    bash
-   git clone https://github.com/Kunj-Tyagi/MathonGo-Assignment.git
+   git clone https://github.com/Mukulraj109/Sample-Task-MathonGo-.git
    cd Assignment
    
 
@@ -129,14 +129,3 @@ POST /api/users/login
 ---
 
 
-## Postman Collection
-
-- https://documenter.getpostman.com/view/37282369/2sB2x2Labq
-
----
-
-
-
-## Author
-
-- [Kunj Tyagi](https://github.com/Kunj-Tyagi)
