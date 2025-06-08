@@ -129,3 +129,12 @@ POST /api/users/login
 ---
 
 
+## Postman Collection
+
+- https://documenter.getpostman.com/view/37282369/2sB2x2Labq
+
+---
+
+
+
+
